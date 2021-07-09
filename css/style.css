@@ -1,0 +1,48 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#header-section {
+    background-image: url(http://sjtn.brussels/sites/default/files/styles/l600h450/public/articles/drapeau-belgique.png?itok=mKxcqTu6);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+
+#parallax-section {
+    background-image: url(https://i.pinimg.com/originals/b1/4d/f5/b14df5936455b72140c54d7b94741d23.jpg);
+    background-position: right bottom;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#footer-section {
+    background-image: url(../images/brussels\ final\ original.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+  p{
+      size: 10px;
+  }
+h5{
+    color: black;
+}
+
+#hola{
+   text-align: left ; 
+   margin-top: 100px;
+}
+#yes{
+    text-align: left; 
+    margin-top: 100px;
+ }
+ #pizza{
+    text-align: left; 
+    margin-top: 100px;
+ }
+ #text{
+    text-align: left ; 
+    margin-top: 100px;
+ }
